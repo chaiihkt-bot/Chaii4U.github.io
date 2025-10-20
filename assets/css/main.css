@@ -208,6 +208,8 @@ input, select, textarea {
 	h1 {
 		font-size: 2.5em;
 		line-height: 1.2;
+		/* Make primary headings bold */
+		font-weight: 700;
 	}
 
 	h2 {
